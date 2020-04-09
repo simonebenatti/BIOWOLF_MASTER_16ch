@@ -1,0 +1,141 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\simon\Documents\ALTIUM\BIOWOLF16_CH\WOLFMAN_16ch.PcbDoc
+Date     : 3/24/2020
+Time     : 4:29:45 PM
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=25mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 8_16_WCT Between Pad ADC2-64 (67.85,-1.41mm) And Pad CC38-2 (80.4,17mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_VREFP Between Pad CC33-2 (51,25.8mm) And Pad CC34-2 (58.4,25.8mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_VREFP Between Pad CC34-2 (58.4,25.8mm) And Pad ADC2-24 (64.35,9.74mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_VCAP3 Between Pad CC36-2 (65.5,17.1mm) And Pad CC37-2 (72.9,17.1mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_VCAP3 Between Pad ADC2-55 (63.35,-1.41mm) And Pad CC36-2 (65.5,17.1mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_VCAP2 Between Pad CC26-2 (58.5,30.2mm) And Pad ADC2-30 (61.35,9.74mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_VCAP1 Between Pad ADC2-28 (62.35,9.74mm) And Pad CC35-2 (65.9,25.75mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM8 Between Pad ADC2-1 (69.675,0.415mm) And Pad PEL2-5 (75.35,0.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM8 Between Pad R53-2 (42.7,17mm) And Pad ADC2-1 (69.675,0.415mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM7 Between Pad ADC2-3 (69.675,1.415mm) And Pad PEL2-7 (75.35,1.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM7 Between Pad R51-2 (54.4,17mm) And Pad ADC2-3 (69.675,1.415mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM6 Between Pad ADC2-5 (69.675,2.415mm) And Pad PEL2-9 (75.35,2.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM6 Between Pad PEL2-9 (75.35,2.45mm) And Pad R49-2 (87.7,17mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM5 Between Pad ADC2-7 (69.675,3.415mm) And Pad PEL2-11 (75.35,3.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM5 Between Pad R47-2 (73.2,25.7mm) And Pad PEL2-11 (75.35,3.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM4 Between Pad ADC2-9 (69.675,4.415mm) And Pad PEL2-13 (75.35,4.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM4 Between Pad R45-2 (74.7,21.4mm) And Pad PEL2-13 (75.35,4.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM3 Between Pad ADC2-11 (69.675,5.415mm) And Pad PEL2-15 (75.35,5.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM3 Between Pad R43-2 (52.8,30.1mm) And Pad ADC2-11 (69.675,5.415mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM2 Between Pad ADC2-13 (69.675,6.415mm) And Pad PEL2-17 (75.35,6.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM2 Between Pad ADC2-13 (69.675,6.415mm) And Pad R41-2 (71.9,30.1mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM1 Between Pad ADC2-15 (69.675,7.415mm) And Pad PEL2-19 (75.35,7.45mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_ELM1 Between Pad PEL2-19 (75.35,7.45mm) And Pad R39-2 (83,30.1mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL8 Between Pad ADC2-2 (69.675,0.915mm) And Pad PEL2-6 (75.35,0.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL8 Between Pad R52-2 (48.6,17mm) And Pad ADC2-2 (69.675,0.915mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL7 Between Pad ADC2-4 (69.675,1.915mm) And Pad PEL2-8 (75.35,1.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL7 Between Pad R50-2 (59.7,17mm) And Pad ADC2-4 (69.675,1.915mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL6 Between Pad ADC2-6 (69.675,2.915mm) And Pad PEL2-10 (75.35,2.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL6 Between Pad R48-2 (45.2,25.7mm) And Pad ADC2-6 (69.675,2.915mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL5 Between Pad ADC2-8 (69.675,3.915mm) And Pad PEL2-12 (75.35,3.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL5 Between Pad PEL2-12 (75.35,3.95mm) And Pad R46-2 (79,25.7mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL4 Between Pad ADC2-10 (69.675,4.915mm) And Pad PEL2-14 (75.35,4.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL4 Between Pad PEL2-14 (75.35,4.95mm) And Pad R44-2 (80.5,21.4mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL3 Between Pad ADC2-12 (69.675,5.915mm) And Pad PEL2-16 (75.35,5.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL3 Between Pad R42-2 (66,30.1mm) And Pad ADC2-12 (69.675,5.915mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL2 Between Pad ADC2-14 (69.675,6.915mm) And Pad PEL2-18 (75.35,6.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL2 Between Pad PEL2-18 (75.35,6.95mm) And Pad R40-2 (77.2,30.1mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL1 Between Pad ADC2-16 (69.675,7.915mm) And Pad PEL2-20 (75.35,7.95mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_EL1 Between Pad R38-2 (45.999,9.7mm) And Pad ADC2-16 (69.675,7.915mm)
+   Violation between Un-Routed Net Constraint: Net 8_16_CS# Between Pad R37-1 (51.799,8.7mm) And Pad ADC2-39 (58.525,4.915mm)
+   Violation between Un-Routed Net Constraint: Net SCK Between Track on layer Bottom Layer (24.25,4.159mm) And Pad ADC2-40 (58.525,4.415mm)
+   Violation between Un-Routed Net Constraint: Net MOSI Between Track on layer Bottom Layer (27.767,9.41mm) And Pad ADC2-34 (58.525,7.415mm)
+   Violation between Un-Routed Net Constraint: Net MISO Between Track on layer Bottom Layer (22.614,2.575mm) And Pad ADC2-43 (58.525,2.915mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-49 (60.35,-1.41mm) And Pad ADC2-51 (61.35,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-41 (58.525,3.915mm) And Pad ADC2-38 (58.525,5.415mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-38 (58.525,5.415mm) And Pad ADC2-33 (58.525,7.915mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad PJ1-2 (31.2,15.907mm) And Pad CC28-1 (45.3,29.2mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-33 (58.525,7.915mm) And Pad CC27-1 (86.3,20.5mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-41 (58.525,3.915mm) And Pad ADC2-49 (60.35,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC1-51 (27.584,5.224mm) And Pad ADC2-38 (58.525,5.415mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad ADC2-50 (60.85,-1.41mm) And Pad ADC2-52 (61.85,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad ADC2-48 (58.525,0.415mm) And Pad ADC2-50 (60.85,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad ADC2-48 (58.525,0.415mm) And Pad ADC2-36 (58.525,6.415mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad R37-2 (51.799,9.7mm) And Pad ADC2-36 (58.525,6.415mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Top Layer (28.329,10.1mm) And Pad R37-2 (51.799,9.7mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad CC28-2 (45.3,30.2mm) And Pad R37-2 (51.799,9.7mm)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad ADC2-36 (58.525,6.415mm) And Pad CC27-2 (86.3,21.5mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad ADC2-22 (65.35,9.74mm) And Pad ADC2-21 (65.85,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad ADC2-54 (62.85,-1.41mm) And Pad ADC2-56 (63.85,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad ADC2-21 (65.85,9.74mm) And Pad ADC2-19 (66.85,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad ADC2-56 (63.85,-1.41mm) And Pad ADC2-59 (65.35,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R15-1 (40.1,15.7mm) And Pad R53-1 (42.7,16mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R48-1 (45.2,24.7mm) And Pad CC29-2 (45.6,21.5mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R51-1 (54.4,16mm) And Pad R50-1 (59.7,16mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R41-1 (71.9,29.1mm) And Pad R40-1 (77.2,29.1mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R41-1 (71.9,29.1mm) And Pad R47-1 (73.2,24.7mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R47-1 (73.2,24.7mm) And Pad R45-1 (74.7,20.4mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R46-1 (79,24.7mm) And Pad R44-1 (80.5,20.4mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R40-1 (77.2,29.1mm) And Pad R39-1 (83,29.1mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R52-1 (48.6,16mm) And Pad R51-1 (54.4,16mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R42-1 (66,29.1mm) And Pad R41-1 (71.9,29.1mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R50-1 (59.7,16mm) And Pad CC31-2 (60.3,21.5mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R24-1 (40.1,8.497mm) And Pad R38-1 (45.999,8.7mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad CC30-2 (53,21.5mm) And Pad R51-1 (54.4,16mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R43-1 (52.8,29.1mm) And Pad CC30-2 (53,21.5mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad ADC2-59 (65.35,-1.41mm) And Pad PEL2-2 (75.35,-1.05mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R44-1 (80.5,20.4mm) And Pad R49-1 (87.7,16mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R45-1 (74.7,20.4mm) And Pad R44-1 (80.5,20.4mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R53-1 (42.7,16mm) And Pad R52-1 (48.6,16mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad CC29-2 (45.6,21.5mm) And Pad CC30-2 (53,21.5mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad ADC2-59 (65.35,-1.41mm) And Pad ADC2-22 (65.35,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R50-1 (59.7,16mm) And Pad ADC2-22 (65.35,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AVDD Between Pad R43-1 (52.8,29.1mm) And Pad R42-1 (66,29.1mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-57 (64.35,-1.41mm) And Pad ADC2-58 (64.85,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-32 (60.35,9.74mm) And Pad ADC2-31 (60.85,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-25 (63.85,9.74mm) And Pad ADC2-23 (64.85,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-23 (64.85,9.74mm) And Pad ADC2-20 (66.35,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-53 (62.35,-1.41mm) And Pad ADC2-57 (64.35,-1.41mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC34-1 (58.4,24.8mm) And Pad CC26-1 (58.5,29.2mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC35-1 (65.9,24.25mm) And Pad CC32-1 (67.2,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC36-1 (65.5,16.1mm) And Pad CC32-1 (67.2,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC34-1 (58.4,24.8mm) And Pad CC31-1 (60.3,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC33-1 (51,24.8mm) And Pad CC30-1 (53,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Via (39.302,19.957mm) And Pad CC29-1 (45.6,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC36-1 (65.5,16.1mm) And Pad CC37-1 (72.9,16.1mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC37-1 (72.9,16.1mm) And Pad CC38-1 (80.4,15.6mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-58 (64.85,-1.41mm) And Pad PEL2-1 (75.35,-1.55mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-31 (60.85,9.74mm) And Pad ADC2-25 (63.85,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC31-1 (60.3,20.5mm) And Pad CC32-1 (67.2,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC30-1 (53,20.5mm) And Pad CC31-1 (60.3,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad CC29-1 (45.6,20.5mm) And Pad CC30-1 (53,20.5mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-58 (64.85,-1.41mm) And Pad ADC2-23 (64.85,9.74mm)
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad ADC2-23 (64.85,9.74mm) And Pad CC36-1 (65.5,16.1mm)
+Rule Violations :103
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 103
+Time Elapsed        : 00:00:01

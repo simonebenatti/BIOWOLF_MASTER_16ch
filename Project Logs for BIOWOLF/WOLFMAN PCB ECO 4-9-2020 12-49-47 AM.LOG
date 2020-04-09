@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=04_ANALOG_B Member=CC3
+Removed Member From Class: ClassName=04_ANALOG_B Member=CC4
+Removed Member From Class: ClassName=04_ANALOG_B Member=CC5
+Removed Member From Class: ClassName=05_POWER Member=CC6
+Removed Member From Class: ClassName=05_POWER Member=CC8
+Removed Member From Class: ClassName=05_POWER Member=CC9
+Removed Member From Class: ClassName=04_ANALOG_B Member=CC10
+Removed Member From Class: ClassName=05_POWER Member=CC28
+Removed Member From Class: ClassName=05_POWER Member=CC29
+Removed Member From Class: ClassName=05_POWER Member=CC34
+Removed Member From Class: ClassName=03_ANALOG_A Member=CC35
+Removed Member From Class: ClassName=03_ANALOG_A Member=CC37
+Removed Member From Class: ClassName=04_ANALOG_B Member=CC37
+Removed Member From Class: ClassName=02_NRF52832 Member=L5
+Removed Member From Class: ClassName=05_POWER Member=R5
+Removed Member From Class: ClassName=01_MRWOLF Member=R11
+Removed Member From Class: ClassName=06_SENSORS Member=R14
+Removed Member From Class: ClassName=02_NRF52832 Member=U3
+Added Component: Designator=D2(DIOC1608X08L)
+Added Component: Designator=R3(J1-0603)
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=DGND Pin=D2-2
+Added Pin To Net: NetName=NetD2_1 Pin=R3-1
+Added Pin To Net: NetName=LED_2 Pin=R3-2
+Added Member To Class: ClassName=03_ANALOG_A Member=Component CC1 Cap Semi
+Added Member To Class: ClassName=03_ANALOG_A Member=Component CC15 10uF
+Added Member To Class: ClassName=04_ANALOG_B Member=Component CC18 Cap Semi
+Added Member To Class: ClassName=04_ANALOG_B Member=Component CC19 Cap Semi
+Added Member To Class: ClassName=04_ANALOG_B Member=Component CC20 Cap Semi
+Added Member To Class: ClassName=04_ANALOG_B Member=Component CC21 Cap Semi
+Added Member To Class: ClassName=04_ANALOG_B Member=Component CC23 100nF
+Added Member To Class: ClassName=05_POWER Member=Component CC36 4.7uF
+Added Member To Class: ClassName=05_POWER Member=Component CC37 100nF
+Added Member To Class: ClassName=05_POWER Member=Component CC38 4.7uF
+Added Member To Class: ClassName=05_POWER Member=Component CC39 10nF
+Added Member To Class: ClassName=02_NRF52832 Member=Component D2 LED Orange
+Added Member To Class: ClassName=02_NRF52832 Member=Component L2 L0603B100KDWFT
+Added Member To Class: ClassName=01_MRWOLF Member=Component R1 NC
+Added Member To Class: ClassName=02_NRF52832 Member=Component R3 
+Added Member To Class: ClassName=03_ANALOG_A Member=Component R6 4.7K
+Added Member To Class: ClassName=03_ANALOG_A Member=Component R9 22K
+Added Member To Class: ClassName=05_POWER Member=Component R12 1M24
+Added Member To Class: ClassName=05_POWER Member=Component R20 10K
+Added Member To Class: ClassName=06_SENSORS Member=Component R21 Res3
+Added Member To Class: ClassName=06_SENSORS Member=Component R24 Res3
+Added Member To Class: ClassName=02_NRF52832 Member=Component U2 nRF52832-QFAA

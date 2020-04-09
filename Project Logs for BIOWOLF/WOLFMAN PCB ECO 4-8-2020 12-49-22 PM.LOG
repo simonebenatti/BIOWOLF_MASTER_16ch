@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetPW1_8 Pin=R1-1
+Removed Pin From Net: NetName=NetPW1_8 Pin=R2-1
+Removed Pin From Net: NetName=NetPW1_8 Pin=R3-1
+Removed Member From Class: ClassName=01_MRWOLF Member=C25
+Added Component: Designator=R6(0402)
+Added Component: Designator=R9(0402)
+Added Component: Designator=R20(0402)
+Added Pin To Net: NetName=8_16_VCAP4 Pin=CC32-2
+Added Pin To Net: NetName=DVDD Pin=R1-1
+Added Pin To Net: NetName=DVDD Pin=R2-1
+Added Pin To Net: NetName=DVDD Pin=R3-1
+Added Pin To Net: NetName=NetPW1_8 Pin=R1-1
+Added Pin To Net: NetName=NetPW1_7 Pin=R1-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R2-1
+Added Pin To Net: NetName=NetPW1_10 Pin=R2-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R3-1
+Added Pin To Net: NetName=NetPW1_12 Pin=R3-2
+Added Member To Class: ClassName=05_POWER Member=Component CC2 10uF
+Added Member To Class: ClassName=05_POWER Member=Component CC4 1UF
+Added Member To Class: ClassName=05_POWER Member=Component R9 1M24
+Added Member To Class: ClassName=05_POWER Member=Component R13 10K
+Added Member To Class: ClassName=06_SENSORS Member=Component R14 Res3
+Added Member To Class: ClassName=05_POWER Member=Component R24 6M65
+Added Member To Class: ClassName=05_POWER Member=Component R30 4M99

@@ -1,0 +1,262 @@
+Removed Pin From Net: NetName=DGND Pin=ADC1-38
+Removed Pin From Net: NetName=DGND Pin=ADC2-38
+Removed Pin From Net: NetName=P0.17 Pin=P1-3
+Removed Pin From Net: NetName=NetPW1_8 Pin=R1-1
+Removed Pin From Net: NetName=NetPW1_7 Pin=R1-2
+Removed Pin From Net: NetName=NetPW1_8 Pin=R2-1
+Removed Pin From Net: NetName=NetPW1_10 Pin=R2-2
+Removed Pin From Net: NetName=NetPW1_8 Pin=R3-1
+Removed Pin From Net: NetName=NetPW1_12 Pin=R3-2
+Removed Pin From Net: NetName=AVDD Pin=R13-1
+Removed Pin From Net: NetName=EL1 Pin=R13-2
+Removed Pin From Net: NetName=AVDD Pin=R14-1
+Removed Pin From Net: NetName=ELM1 Pin=R14-2
+Removed Pin From Net: NetName=AVDD Pin=R15-1
+Removed Pin From Net: NetName=EL2 Pin=R15-2
+Removed Pin From Net: NetName=AVDD Pin=R16-1
+Removed Pin From Net: NetName=ELM2 Pin=R16-2
+Removed Pin From Net: NetName=AVDD Pin=R17-1
+Removed Pin From Net: NetName=EL3 Pin=R17-2
+Removed Pin From Net: NetName=AVDD Pin=R18-1
+Removed Pin From Net: NetName=ELM3 Pin=R18-2
+Removed Pin From Net: NetName=AVDD Pin=R19-1
+Removed Pin From Net: NetName=EL4 Pin=R19-2
+Removed Pin From Net: NetName=AVDD Pin=R20-1
+Removed Pin From Net: NetName=ELM4 Pin=R20-2
+Removed Pin From Net: NetName=AVDD Pin=R22-1
+Removed Pin From Net: NetName=EL5 Pin=R22-2
+Removed Pin From Net: NetName=AVDD Pin=R23-1
+Removed Pin From Net: NetName=ELM5 Pin=R23-2
+Removed Pin From Net: NetName=AVDD Pin=R24-1
+Removed Pin From Net: NetName=EL6 Pin=R24-2
+Removed Pin From Net: NetName=AVDD Pin=R28-1
+Removed Pin From Net: NetName=ELM6 Pin=R28-2
+Removed Pin From Net: NetName=AVDD Pin=R29-1
+Removed Pin From Net: NetName=EL7 Pin=R29-2
+Removed Pin From Net: NetName=AVDD Pin=R30-1
+Removed Pin From Net: NetName=ELM7 Pin=R30-2
+Removed Pin From Net: NetName=AVDD Pin=R31-1
+Removed Pin From Net: NetName=EL8 Pin=R31-2
+Removed Pin From Net: NetName=AVDD Pin=R32-1
+Removed Pin From Net: NetName=ELM8 Pin=R32-2
+Removed Pin From Net: NetName=AVDD Pin=R38-1
+Removed Pin From Net: NetName=8_16_EL1 Pin=R38-2
+Removed Pin From Net: NetName=AVDD Pin=R39-1
+Removed Pin From Net: NetName=8_16_ELM1 Pin=R39-2
+Removed Pin From Net: NetName=AVDD Pin=R40-1
+Removed Pin From Net: NetName=8_16_EL2 Pin=R40-2
+Removed Pin From Net: NetName=AVDD Pin=R41-1
+Removed Pin From Net: NetName=8_16_ELM2 Pin=R41-2
+Removed Pin From Net: NetName=AVDD Pin=R42-1
+Removed Pin From Net: NetName=8_16_EL3 Pin=R42-2
+Removed Pin From Net: NetName=AVDD Pin=R43-1
+Removed Pin From Net: NetName=8_16_ELM3 Pin=R43-2
+Removed Pin From Net: NetName=AVDD Pin=R44-1
+Removed Pin From Net: NetName=8_16_EL4 Pin=R44-2
+Removed Pin From Net: NetName=AVDD Pin=R45-1
+Removed Pin From Net: NetName=8_16_ELM4 Pin=R45-2
+Removed Pin From Net: NetName=AVDD Pin=R46-1
+Removed Pin From Net: NetName=8_16_EL5 Pin=R46-2
+Removed Pin From Net: NetName=AVDD Pin=R47-1
+Removed Pin From Net: NetName=8_16_ELM5 Pin=R47-2
+Removed Pin From Net: NetName=AVDD Pin=R48-1
+Removed Pin From Net: NetName=8_16_EL6 Pin=R48-2
+Removed Pin From Net: NetName=AVDD Pin=R49-1
+Removed Pin From Net: NetName=8_16_ELM6 Pin=R49-2
+Removed Pin From Net: NetName=AVDD Pin=R50-1
+Removed Pin From Net: NetName=8_16_EL7 Pin=R50-2
+Removed Pin From Net: NetName=AVDD Pin=R51-1
+Removed Pin From Net: NetName=8_16_ELM7 Pin=R51-2
+Removed Pin From Net: NetName=AVDD Pin=R52-1
+Removed Pin From Net: NetName=8_16_EL8 Pin=R52-2
+Removed Pin From Net: NetName=AVDD Pin=R53-1
+Removed Pin From Net: NetName=8_16_ELM8 Pin=R53-2
+Removed Member From Class: ClassName=02_NRF52832 Member=C3
+Removed Member From Class: ClassName=02_NRF52832 Member=C5
+Removed Member From Class: ClassName=01_MRWOLF Member=C24
+Removed Member From Class: ClassName=01_MRWOLF Member=C25
+Removed Member From Class: ClassName=01_MRWOLF Member=C26
+Removed Member From Class: ClassName=03_ANALOG Member=CC2
+Removed Member From Class: ClassName=03_ANALOG Member=CC3
+Removed Member From Class: ClassName=03_ANALOG Member=CC4
+Removed Member From Class: ClassName=03_ANALOG Member=CC5
+Removed Member From Class: ClassName=05_POWER Member=CC8
+Removed Member From Class: ClassName=05_POWER Member=CC15
+Removed Member From Class: ClassName=05_POWER Member=CC18
+Removed Member From Class: ClassName=05_POWER Member=CC25
+Removed Member From Class: ClassName=03_ANALOG Member=R3
+Removed Member From Class: ClassName=03_ANALOG Member=R6
+Removed Member From Class: ClassName=02_NRF52832 Member=R7
+Removed Member From Class: ClassName=03_ANALOG Member=R10
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R12
+Removed Member From Class: ClassName=03_ANALOG Member=R14
+Removed Member From Class: ClassName=05_POWER Member=R14
+Removed Member From Class: ClassName=03_ANALOG Member=R15
+Removed Member From Class: ClassName=05_POWER Member=R15
+Removed Member From Class: ClassName=03_ANALOG Member=R16
+Removed Member From Class: ClassName=03_ANALOG Member=R17
+Removed Member From Class: ClassName=03_ANALOG Member=R18
+Removed Member From Class: ClassName=03_ANALOG Member=R19
+Removed Member From Class: ClassName=03_ANALOG Member=R22
+Removed Member From Class: ClassName=03_ANALOG Member=R23
+Removed Member From Class: ClassName=03_ANALOG Member=R24
+Removed Member From Class: ClassName=05_POWER Member=R27
+Removed Member From Class: ClassName=03_ANALOG Member=R28
+Removed Member From Class: ClassName=03_ANALOG Member=R29
+Removed Member From Class: ClassName=03_ANALOG Member=R31
+Removed Member From Class: ClassName=03_ANALOG Member=R32
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R38
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R39
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R40
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R41
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R42
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R43
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R44
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R45
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R46
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R47
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R48
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R49
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R50
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R51
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R52
+Removed Member From Class: ClassName=04_ANALOG_2 Member=R53
+Change Component Comment : Designator=R2 Old Comment=1M24 New Comment=Res3
+Change Component Comment : Designator=R3 Old Comment=4M22 New Comment=Res3
+Change Component Comment : Designator=R1 Old Comment=7M32 New Comment=Res3
+Change Component Designator: OldDesignator=A2 NewDesignator=A1
+Change Component Designator: OldDesignator=CC2 NewDesignator=CC22
+Change Component Designator: OldDesignator=CC3 NewDesignator=CC23
+Change Component Designator: OldDesignator=CC4 NewDesignator=CC24
+Change Component Designator: OldDesignator=CC5 NewDesignator=CC25
+Change Component Designator: OldDesignator=CC6 NewDesignator=CC2
+Change Component Designator: OldDesignator=CC7 NewDesignator=CC3
+Change Component Designator: OldDesignator=CC8 NewDesignator=CC4
+Change Component Designator: OldDesignator=CONN_BAT1 NewDesignator=CONN_BAT
+Change Component Designator: OldDesignator=CONN_P_S1 NewDesignator=CONN_P_S
+Change Component Designator: OldDesignator=R4 NewDesignator=R24
+Change Component Designator: OldDesignator=R5 NewDesignator=R27
+Change Component Designator: OldDesignator=R6 NewDesignator=R30
+Change Component Designator: OldDesignator=R7 NewDesignator=R33
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R36 NewDesignator=R14
+Change Component Designator: OldDesignator=RVAVDD1 NewDesignator=RVAVDD
+Change Component Designator: OldDesignator=RVBAT1 NewDesignator=RVBAT
+Change Component Designator: OldDesignator=RVDVDD1 NewDesignator=RVDVDD
+Change Component Designator: OldDesignator=RVSP1 NewDesignator=RVSP
+Change Component Designator: OldDesignator=Value1 NewDesignator=0.01
+Added Component: Designator=CA4(0402)
+Added Component: Designator=CA5(0402)
+Added Component: Designator=CA6(0402)
+Added Component: Designator=CA7(0402)
+Added Component: Designator=CA8(0402)
+Added Component: Designator=CA9(0402)
+Added Component: Designator=CA10(0402)
+Added Component: Designator=JM5(UJMPR)
+Added Component: Designator=JM6(UJMPR)
+Added Component: Designator=R6(0402)
+Added Component: Designator=R9(0402)
+Added Component: Designator=R20(0402)
+Added Component: Designator=U4(*PSON80P300X300X100-8N)
+Added Component: Designator=U5(*PQFN50P300X250X86-14N)
+Added Pin To Net: NetName=P0.24 Pin=ADC1-38
+Added Pin To Net: NetName=LED_2 Pin=ADC2-35
+Added Pin To Net: NetName=P0.24 Pin=ADC2-38
+Added Pin To Net: NetName=CAM.VSYNC Pin=ADC2-39
+Added Pin To Net: NetName=DGND Pin=CA4-1
+Added Pin To Net: NetName=DGND Pin=CA5-1
+Added Pin To Net: NetName=DGND Pin=CA6-1
+Added Pin To Net: NetName=DGND Pin=CA7-1
+Added Pin To Net: NetName=DGND Pin=CA8-1
+Added Pin To Net: NetName=DGND Pin=CA9-1
+Added Pin To Net: NetName=DGND Pin=CA10-1
+Added Pin To Net: NetName=LED_1 Pin=JM5-1
+Added Pin To Net: NetName=NetADC2_47 Pin=JM5-2
+Added Pin To Net: NetName=P0.17 Pin=JM6-1
+Added Pin To Net: NetName=LED_2 Pin=JM6-2
+Added Pin To Net: NetName=DVDD Pin=R1-1
+Added Pin To Net: NetName=DVDD Pin=R2-1
+Added Pin To Net: NetName=DVDD Pin=R3-1
+Added Pin To Net: NetName=NetPW1_8 Pin=R1-1
+Added Pin To Net: NetName=NetPW1_7 Pin=R1-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R2-1
+Added Pin To Net: NetName=NetPW1_10 Pin=R2-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R3-1
+Added Pin To Net: NetName=NetPW1_12 Pin=R3-2
+Added Pin To Net: NetName=CAM.VSYNC Pin=R37-1
+Added Pin To Net: NetName=CAM.VSYNC Pin=U3-40
+Added Pin To Net: NetName=DGND Pin=U4-1
+Added Pin To Net: NetName=P0.26 Pin=U4-5
+Added Pin To Net: NetName=DGND Pin=U4-7
+Added Pin To Net: NetName=P0.26 Pin=U5-1
+Added Pin To Net: NetName=DGND Pin=U5-2
+Added Pin To Net: NetName=DGND Pin=U5-3
+Added Pin To Net: NetName=P0.07 Pin=U5-4
+Added Pin To Net: NetName=DVDD Pin=U5-5
+Added Pin To Net: NetName=DGND Pin=U5-6
+Added Pin To Net: NetName=DGND Pin=U5-7
+Added Pin To Net: NetName=DGND Pin=U5-8
+Added Pin To Net: NetName=P0.08 Pin=U5-9
+Added Pin To Net: NetName=P0.31/AIN7 Pin=U5-13
+Added Pin To Net: NetName=P0.30/AIN6 Pin=U5-14
+Change Net Name : Old Net Name=A_DVDD New Net Name=IMU_A_DVDD
+Change Net Name : Old Net Name=CS# New Net Name=IN_CS_ADC_A
+Change Net Name : Old Net Name=NetCC5_2 New Net Name=NetCC25_2
+Change Net Name : Old Net Name=NetCC7_2 New Net Name=NetCC3_2
+Added Pin To Net: NetName=BME_DVDD Pin=CA4-2
+Added Pin To Net: NetName=BME_DVDD Pin=CA5-2
+Added Pin To Net: NetName=BME_DVDD Pin=R1-2
+Added Pin To Net: NetName=BME_DVDD Pin=U4-2
+Added Pin To Net: NetName=BME_DVDD Pin=U4-6
+Added Pin To Net: NetName=BME_DVDD Pin=U4-8
+Added Net: Name=BME_DVDD
+Added Pin To Net: NetName=MIC_DVDD Pin=CA9-2
+Added Pin To Net: NetName=MIC_DVDD Pin=CA10-2
+Added Pin To Net: NetName=MIC_DVDD Pin=R3-2
+Added Net: Name=MIC_DVDD
+Added Pin To Net: NetName=MLIMU_DVDD Pin=CA6-2
+Added Pin To Net: NetName=MLIMU_DVDD Pin=CA7-2
+Added Pin To Net: NetName=MLIMU_DVDD Pin=CA8-2
+Added Pin To Net: NetName=MLIMU_DVDD Pin=R2-2
+Added Pin To Net: NetName=MLIMU_DVDD Pin=U5-12
+Added Net: Name=MLIMU_DVDD
+Added Pin To Net: NetName=NetADC1_37 Pin=ADC1-37
+Added Pin To Net: NetName=NetADC1_37 Pin=ADC2-37
+Added Net: Name=NetADC1_37
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=SCL Pin=U4-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U4-3
+Added Net: Name=SDA
+Change Class Name : Old Net Name=03_ANALOG New Net Name=03_ANALOG_A
+Change Class Name : Old Net Name=04_ANALOG_2 New Net Name=04_ANALOG_B
+Added Member To Class: ClassName=01_MRWOLF Member=Component C4 100nF
+Added Member To Class: ClassName=02_NRF52832 Member=Component C24 12pF
+Added Member To Class: ClassName=02_NRF52832 Member=Component C26 100nF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA4 100nF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA5 100nF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA6 100nF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA7 10uF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA8 100nF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA9 100nF
+Added Member To Class: ClassName=06_SENSORS Member=Component CA10 100nF
+Added Member To Class: ClassName=03_ANALOG_A Member=Component CC20 Cap Semi
+Added Member To Class: ClassName=05_POWER Member=Component CC22 4.7uF
+Added Member To Class: ClassName=03_ANALOG_A Member=Component CC23 10uF
+Added Member To Class: ClassName=05_POWER Member=Component CC23 100nF
+Added Member To Class: ClassName=03_ANALOG_A Member=Component CC24 100nF
+Added Member To Class: ClassName=05_POWER Member=Component CC24 4.7uF
+Added Member To Class: ClassName=03_ANALOG_A Member=Component CC25 100nF
+Added Member To Class: ClassName=02_NRF52832 Member=Component JM5 uJumper
+Added Member To Class: ClassName=02_NRF52832 Member=Component JM6 uJumper
+Added Member To Class: ClassName=06_SENSORS Member=Component R1 Res3
+Added Member To Class: ClassName=06_SENSORS Member=Component R2 Res3
+Added Member To Class: ClassName=06_SENSORS Member=Component R3 Res3
+Added Member To Class: ClassName=05_POWER Member=Component R24 6M65
+Added Member To Class: ClassName=02_NRF52832 Member=Component R33 
+Added Member To Class: ClassName=04_ANALOG_B Member=Component R37 NC
+Added Member To Class: ClassName=06_SENSORS Member=Component U4 BME680
+Added Member To Class: ClassName=06_SENSORS Member=Component U5 LSM6DSRX

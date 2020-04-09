@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=DVDD Pin=ADC2-52
+Removed Pin From Net: NetName=NetPW1_8 Pin=R1-1
+Removed Pin From Net: NetName=NetPW1_7 Pin=R1-2
+Removed Pin From Net: NetName=NetPW1_8 Pin=R2-1
+Removed Pin From Net: NetName=NetPW1_10 Pin=R2-2
+Removed Pin From Net: NetName=NetPW1_8 Pin=R3-1
+Removed Pin From Net: NetName=NetPW1_12 Pin=R3-2
+Added Component: Designator=JM7(UJMPR)
+Added Component: Designator=JM8(UJMPR)
+Added Component: Designator=R6(0402)
+Added Component: Designator=R9(0402)
+Added Component: Designator=R20(0402)
+Added Pin To Net: NetName=DVDD Pin=JM7-2
+Added Pin To Net: NetName=DGND Pin=JM8-1
+Added Pin To Net: NetName=DVDD Pin=R1-1
+Added Pin To Net: NetName=BME_DVDD Pin=R1-2
+Added Pin To Net: NetName=DVDD Pin=R2-1
+Added Pin To Net: NetName=MLIMU_DVDD Pin=R2-2
+Added Pin To Net: NetName=DVDD Pin=R3-1
+Added Pin To Net: NetName=MIC_DVDD Pin=R3-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R1-1
+Added Pin To Net: NetName=NetPW1_7 Pin=R1-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R2-1
+Added Pin To Net: NetName=NetPW1_10 Pin=R2-2
+Added Pin To Net: NetName=NetPW1_8 Pin=R3-1
+Added Pin To Net: NetName=NetPW1_12 Pin=R3-2
+Added Pin To Net: NetName=NetADC2_52 Pin=ADC2-52
+Added Pin To Net: NetName=NetADC2_52 Pin=JM7-1
+Added Pin To Net: NetName=NetADC2_52 Pin=JM8-2
+Added Net: Name=NetADC2_52
+Added Member To Class: ClassName=04_ANALOG_B Member=Component JM7 uJumper
+Added Member To Class: ClassName=04_ANALOG_B Member=Component JM8 uJumper
+Added Member To Class: ClassName=05_POWER Member=Component R9 1M24
