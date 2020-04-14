@@ -1,0 +1,12 @@
+Added Component: Designator=JM3(UJMPR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JM4(UJMPR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=W_ACC1_INT1 Pin=JM3-1
+Added Pin To Net: NetName=P0.07 Pin=JM3-2
+Added Pin To Net: NetName=W_ACC1_INT2 Pin=JM4-1
+Added Pin To Net: NetName=P0.08 Pin=JM4-2
+Added Member To Class: ClassName=02_NRF52832 Member=Component C20 100nF
+Added Member To Class: ClassName=01_MRWOLF Member=Component JM2 uJumper
+Added Member To Class: ClassName=01_MRWOLF Member=Component JM3 uJumper
+Added Member To Class: ClassName=01_MRWOLF Member=Component JM4 uJumper

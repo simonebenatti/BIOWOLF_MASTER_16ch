@@ -1,0 +1,12 @@
+Added Component: Designator=J2(MICRO-USB(2.0-SMT-TYPE-B) Combo)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/629105136821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "629105136821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "710-629105136821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-629105136821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=DGND Pin=J2-5
+Added Pin To Net: NetName=DGND Pin=J2-5
+Added Member To Class: ClassName=05_POWER Member=Component J2 USBCONNCOMBO

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DGND Pin=CA9-1
+Removed Pin From Net: NetName=MIC_DVDD Pin=CA9-2
+Removed Member From Class: ClassName=06_SENSORS Member=CA9
