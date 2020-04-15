@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\simon\Documents\ALTIUM\BIOWOLF_MASTER_16ch\WOLFMAN.PcbDoc
-Date     : 4/14/2020
-Time     : 7:17:17 PM
+Date     : 4/15/2020
+Time     : 1:22:09 PM
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -13,68 +13,59 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net AVDD_A Between Pad PEL1-2 (1397.638,219.449mil) And Track on layer Top Layer (1421.26,200.787mil)
    Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Bottom Layer (455.435,574.092mil) And Track on layer Top Layer (460.63,573.631mil)
    Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Bottom Layer (1065.667,-437.008mil) And Pad JM7-2 (1074.803,-437.008mil)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Bottom Layer (430.79,591.414mil) And Pad YW1-4 (438.976,573.631mil)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Bottom Layer (972.441,582.047mil) And Pad ADC1-36 (973.779,514.724mil)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Signal Layer 1 (874.016,535.433mil) And Pad ADC1-36 (973.779,514.724mil)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad U1-1 (423.543,458.937mil) And Track on layer Bottom Layer (455.435,474.683mil)
+   Violation between Un-Routed Net Constraint: Net DVDD Between Track on layer Signal Layer 1 (608.543,185.98mil) And Track on layer Bottom Layer (734.027,186.732mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad CC35-1 (102.756,616.532mil) And Track on layer Bottom Layer (106.299,623.981mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (640.305,618.11mil) And Pad CW1-1 (641.732,606.299mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (369.628,585.613mil) And Track on layer Top Layer (380.717,581.505mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C20-2 (450.475,617.794mil) And Track on layer Top Layer (452.896,630.717mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C1-1 (653.543,710.63mil) And Pad CC41-1 (657.48,722.648mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad U5-2 (689.25,-140.748mil) And Track on layer Top Layer (699.093,-149.606mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad U5-6 (642.99,-94.488mil) And Pad U5-7 (642.99,-74.803mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-49 (1045.276,-565.945mil) And Pad ADC2-51 (1084.646,-565.945mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (315.945,280.512mil) And Pad C5-1 (320.153,242.402mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Top Layer (688.976,-444.882mil) And Track on layer Top Layer (729.98,-442.719mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad PW1-9 (224.409,746.063mil) And Pad R20-2 (251.969,767.717mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad PW2-3 (566.929,740.158mil) And Track on layer Top Layer (568.898,789.37mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad D1-2 (255.905,-83.661mil) And Pad D2-2 (307.087,-83.661mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C1-1 (653.543,710.63mil) And Pad C3-1 (695.886,700.784mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad U6-LR (756.554,-544.291mil) And Pad U6-GND2 (797.893,-526.575mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C17-2 (744.685,605.591mil) And Pad C14-2 (799.213,598.425mil)
+   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (394.685,374.016mil) And Track on layer Bottom Layer (399.606,314.961mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Top Layer (829.685,-526.575mil) And Pad CC23-1 (889.764,-531.496mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad CA3-1 (858.268,771.654mil) And Pad RJ1-1 (905.512,791.339mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C8-1 (467.123,537.402mil) And Track on layer Top Layer (467.931,606.299mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad U4-1 (632.874,-330.709mil) And Track on layer Top Layer (688.976,-316.591mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Top Layer (737.952,-149.606mil) And Track on layer Top Layer (760.433,-198.819mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad C4-1 (320.153,360.512mil) And Track on layer Bottom Layer (350.394,314.961mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad C7-1 (608.543,11.411mil) And Pad C11-1 (685.164,19.685mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Via (632.678,-484.252mil) And Track on layer Top Layer (688.976,-444.882mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad SW1-6 (220.472,-374.016mil) And Pad SW1-1 (220.472,-275.591mil)
+   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Top Layer (737.952,-149.606mil) And Via (760.433,-198.819mil)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad C7-1 (608.543,11.411mil) And Track on layer Top Layer (685.164,11.686mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Top Layer (999.685,-649.535mil) And Track on layer Top Layer (1016.138,-567.244mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (126.374,563.719mil) And Pad CC37-1 (170.076,498.031mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad A2-3 (923.62,649.882mil) And Via (1011.811,674.08mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad CA10-1 (665.354,-661.417mil) And Track on layer Top Layer (729.98,-598.425mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC1-41 (973.779,416.299mil) And Pad ADC1-33 (973.779,573.779mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-41 (973.425,-356.299mil) And Pad ADC2-33 (973.425,-198.819mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (771.654,193.571mil) And Track on layer Top Layer (928.453,203.031mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad J2-5 (468.897,-518.701mil) And Via (632.678,-484.252mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Via (1011.811,674.08mil) And Pad PJ1-2 (1228.346,626.26mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad CA6-1 (-118.11,-370.079mil) And Pad SW1-6 (220.472,-374.016mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (394.685,374.016mil) And Track on layer Bottom Layer (399.606,314.961mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad PW1-1 (320.866,629.921mil) And Track on layer Top Layer (381.89,635.821mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad U5-6 (642.99,-94.488mil) And Pad CA7-1 (699.093,-106.299mil)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad U4-1 (632.874,-330.709mil) And Track on layer Top Layer (688.976,-316.591mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C1-1 (653.543,710.63mil) And Track on layer Bottom Layer (654.36,632.165mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad U6-GND (729.98,-478.346mil) And Pad U6-LR (756.554,-544.291mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad C25-2 (771.654,191.811mil) And Pad C24-1 (793.468,118.11mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad CA3-1 (858.268,771.654mil) And Pad A2-8 (860.628,649.882mil)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad U5-8 (649.88,-48.228mil) And Via (704.724,-10.825mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Via (889.764,-574.803mil) And Track on layer Top Layer (1016.138,-567.244mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad ADC2-51 (1084.646,-565.945mil) And Pad JM8-1 (1129.921,-437.008mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Track on layer Bottom Layer (220.472,-250.394mil) And Via (259.842,-114.173mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad C7-1 (608.543,11.411mil) And Pad U5-8 (649.88,-48.228mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad U4-7 (727.362,-299.213mil) And Pad CA4-1 (776.062,-228.346mil)
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad C25-2 (771.654,191.811mil) And Pad C24-1 (793.468,118.11mil)
    Violation between Un-Routed Net Constraint: Net DGND Between Pad C17-2 (744.685,605.591mil) And Pad U1-49 (747.362,487.48mil)
-   Violation between Un-Routed Net Constraint: Net DGND Between Pad D2-2 (307.087,-83.661mil) And Via (566.811,-74.803mil)
    Violation between Un-Routed Net Constraint: Net NetC23_2 Between Track on layer Bottom Layer (401.575,347.547mil) And Track on layer Bottom Layer (409.999,350.276mil)
-   Violation between Un-Routed Net Constraint: Net P0.24 Between Pad U2-29 (486.221,342.52mil) And Track on layer Top Layer (952.518,475.75mil)
-   Violation between Un-Routed Net Constraint: Net VBAT Between Track on layer Bottom Layer (512.673,675.984mil) And Track on layer Bottom Layer (597.357,669.009mil)
-Rule Violations :58
+Rule Violations :45
 
 Processing Rule : Clearance Constraint (Gap=5.905mil) (All),(All)
    Violation between Pad J2-5(433.464mil,-592.764mil)  Top Layer and 
                      Pad J2-8(464.96mil,-624.016mil)  Top Layer
    Violation between Pad J2-1(401.968mil,-592.764mil)  Top Layer and 
                      Pad J2-7(370.472mil,-624.016mil)  Top Layer
-   Violation between Track (529.528mil,545.473mil)(529.528mil,592.52mil)  Top Layer and 
-                     Via (507.874mil,574.803mil) Top Layer to Bottom Layer
-Rule Violations :3
+   Violation between Via (910.817mil,469.929mil) Top Layer to Bottom Layer and 
+                     Pad X2-2(877.789mil,480.639mil)  Bottom Layer
+   Violation between Track (910.894mil,446.187mil)(961.981mil,497.274mil)  Bottom Layer and 
+                     Via (910.817mil,469.929mil) Top Layer to Bottom Layer
+   Violation between Track (299.213mil,-8.908mil)(415.601mil,107.48mil)  Bottom Layer and 
+                     Via (357.217mil,25.278mil) Top Layer to Bottom Layer
+Rule Violations :5
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
@@ -92,28 +83,18 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (220.472mil,-250.394mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (956.693mil,-649.535mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (414.37mil,657.48mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (343.761mil,-122.047mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (827.386mil,797.437mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (1011.811mil,674.08mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (889.764mil,-574.803mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (632.678mil,-484.252mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (829.685mil,-526.575mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (729.98mil,-598.425mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (729.98mil,-442.719mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (632.874mil,-370.079mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (688.976mil,-444.882mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (660.433mil,-188.976mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (566.811mil,-74.803mil) Top Layer to Bottom Layer
    Violation between Net Antennae: Via (769.448mil,-118.11mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Track (439.687mil,675.984mil)(512.673mil,675.984mil)  Bottom Layer
    Violation between Net Antennae: Track (430.79mil,591.414mil)(430.79mil,638.521mil)  Bottom Layer
-   Violation between Net Antennae: Track (597.357mil,669.009mil)(638.537mil,669.009mil)  Bottom Layer
    Violation between Net Antennae: Track (126.374mil,563.719mil)(126.374mil,622.49mil)  Bottom Layer
    Violation between Net Antennae: Track (409.999mil,350.276mil)(417.991mil,358.268mil)  Bottom Layer
-Rule Violations :21
+   Violation between Net Antennae: Track (448.818mil,653.936mil)(448.818mil,702.439mil)  Signal Layer 1
+Rule Violations :11
 
 Processing Rule : Rule
    Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Bottom Layer
@@ -122,10 +103,11 @@ Processing Rule : Rule
    Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Signal Layer 2
    Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Signal Layer 1
    Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Signal Layer 1
+   Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Signal Layer 1
    Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Top Layer
    Violation between Unpoured Polygon: Polygon  (Bottom Layer-No Net)  on Top Layer
-Rule Violations :8
+Rule Violations :9
 
 
-Violations Detected : 90
+Violations Detected : 70
 Time Elapsed        : 00:00:02
