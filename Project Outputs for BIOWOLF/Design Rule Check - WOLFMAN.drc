@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\javie\workspaceAltium\BIOWOLF_MASTER_16ch-master\WOLFMAN.PcbDoc
-Date     : 4/16/2020
-Time     : 4:01:28 PM
+PCB File : C:\Users\javie\workspaceAltium\BIOWOLF_MASTER_16ch-master_last\WOLFMAN.PcbDoc
+Date     : 4/19/2020
+Time     : 1:05:12 AM
 
 Processing Rule : Clearance Constraint (Gap=5.905mil) (All),(All)
 Rule Violations :0
@@ -35,4 +35,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
